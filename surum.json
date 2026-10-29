@@ -1,7 +1,7 @@
 {
-  "surumKodu": 12,
-  "surumAdi": "2.10",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.10/ZaruIPTV.apk",
-  "notlar": "Arapça eklendi. Televizyon Arapçaysa kendiliğinden seçilir.",
+  "surumKodu": 13,
+  "surumAdi": "2.11",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.11/ZaruIPTV.apk",
+  "notlar": "Açılış animasyonu. Video değişince son kare yerine ZaruIPTV işareti.",
   "zorunlu": false
 }
