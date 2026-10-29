@@ -1,7 +1,7 @@
 {
-  "surumKodu": 3,
-  "surumAdi": "2.1",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.1/ZaruIPTV.apk",
-  "notlar": "Ayar başlıkları kutulara alındı. Oynatıcı seçenekleri belirginleştirildi. Beş yeni tema: Okyanus, Sinema, Orman, Lacivert, Şafak.",
+  "surumKodu": 4,
+  "surumAdi": "2.2",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.2/ZaruIPTV.apk",
+  "notlar": "Ayar kutuları koyulaştırıldı. Tema rengi artık bütün ekranı boyamıyor.",
   "zorunlu": false
 }
