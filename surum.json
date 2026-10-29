@@ -1,7 +1,7 @@
 {
-  "surumKodu": 10,
-  "surumAdi": "2.8",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.8/ZaruIPTV.apk",
-  "notlar": "Yeni sürüm penceresinde Şimdi güncelle ve Daha sonra hatırlat var.",
+  "surumKodu": 11,
+  "surumAdi": "2.9",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.9/ZaruIPTV.apk",
+  "notlar": "Ayarlarda dil seçimi. İlk açılışta televizyonun dili gelir.",
   "zorunlu": false
 }
