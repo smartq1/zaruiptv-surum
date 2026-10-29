@@ -1,7 +1,7 @@
 {
-  "surumKodu": 6,
-  "surumAdi": "2.4",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.4/ZaruIPTV.apk",
-  "notlar": "Altı yeni tema rengi: Mavi, Yeşil, Kırmızı, Mercan, Limon, Buz.",
+  "surumKodu": 7,
+  "surumAdi": "2.5",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.5/ZaruIPTV.apk",
+  "notlar": "İlk güncellemede kurulum, izin verilince kendiliğinden açılır.",
   "zorunlu": false
 }
