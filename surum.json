@@ -1,7 +1,7 @@
 {
-  "surumKodu": 8,
-  "surumAdi": "2.6",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.6/ZaruIPTV.apk",
-  "notlar": "Hakkında sayfası artık yüklü sürümü gösterir.",
+  "surumKodu": 9,
+  "surumAdi": "2.7",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.7/ZaruIPTV.apk",
+  "notlar": "Yeni sürüm bulunduğunda ekranda pencere olarak sorulur.",
   "zorunlu": false
 }
