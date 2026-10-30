@@ -1,7 +1,7 @@
 {
-  "surumKodu": 14,
-  "surumAdi": "2.12",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.12/ZaruIPTV.apk",
-  "notlar": "Yeni logo (şerit Z) ve güncellenmiş simge/banner.",
+  "surumKodu": 15,
+  "surumAdi": "2.13",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.13/ZaruIPTV.apk",
+  "notlar": "Açılış animasyonu logoyla, ayarlarda sağ panel ve Dil başlığı düzeltildi.",
   "zorunlu": false
 }
