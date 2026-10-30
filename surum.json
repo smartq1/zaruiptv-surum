@@ -1,7 +1,7 @@
 {
-  "surumKodu": 16,
-  "surumAdi": "2.14",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.14/ZaruIPTV.apk",
-  "notlar": "Yeni açılış animasyonu ve net (HD) logo.",
+  "surumKodu": 17,
+  "surumAdi": "2.15",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.15/ZaruIPTV.apk",
+  "notlar": "Açılış animasyonuna ses efekti.",
   "zorunlu": false
 }
