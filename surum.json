@@ -1,7 +1,1 @@
-{
-  "surumKodu": 18,
-  "surumAdi": "2.16",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.16/ZaruIPTV.apk",
-  "notlar": "Kanal listesi ve seçici yenilendi, kanallar daha belirgin. Kaldığın yer düzenli kaydediliyor. Kanal geçişi siyah-beyaz.",
-  "zorunlu": false
-}
+{"surumKodu":19,"surumAdi":"2.17","apk":"https://github.com/smartq1/zaruiptv-surum/releases/download/v2.17/ZaruIPTV.apk","notlar":"Kanal adları artık taşmıyor (uzun adlar … ile kısalıyor) ve seçim anında beliriyor. Profil afişlerinin kenarları artık kırpılmıyor.","zorunlu":false}
