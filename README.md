@@ -126,7 +126,9 @@ adb install -r ZaruIPTV.apk
 |---|---|---|
 | ← ↑ → ↓ | Everywhere | Move around |
 | **OK** | Everywhere | Select |
-| **OK** (hold) | Channel or poster | Add to / remove from favourites |
+| **OK** (hold) | Channel | Menu: add to / remove from favourites, hide channel |
+| **OK** (hold) | Poster | Add to / remove from favourites |
+| **0–9** | Anywhere | Type a channel number to jump to it |
 | **Back** | Everywhere | Go back; on the home page, press twice to exit |
 | **OK** | Live TV channel | Open in the preview; press again for full screen |
 | **↑** | Full-screen live TV | Channel list |
