@@ -1,1 +1,1 @@
-{"surumKodu":35,"surumAdi":"2.33","apk":"https://github.com/smartq1/zaruiptv-surum/releases/download/v2.33/ZaruIPTV.apk","notlar":"Çoklu ekran geldi. Sağda ikinci kanal açılır; kayıtlı başka bir liste seçilirse o listenin kendi bağlantısı kullanılır. Aynı listeden açılırsa ve hesap tek bağlantılıysa uyarı çıkar.","zorunlu":false}
+{"surumKodu":36,"surumAdi":"2.34","apk":"https://github.com/smartq1/zaruiptv-surum/releases/download/v2.34/ZaruIPTV.apk","notlar":"Sağ ekran açılınca uygulama kapanıyordu. Tampon süreleri düzeltildi; çoklu ekran artık açılıyor.","zorunlu":false}
