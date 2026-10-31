@@ -1,7 +1,7 @@
 {
-  "surumKodu": 48,
-  "surumAdi": "2.46",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.46/ZaruIPTV.apk",
-  "notlar": "Film ve dizi sayfasındaki oyuncu yüzlerine tema renginde ince yuvarlak çerçeve eklendi.",
+  "surumKodu": 49,
+  "surumAdi": "2.47",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.47/ZaruIPTV.apk",
+  "notlar": "Film ve bölüm indirme ile canlı yayında kaydetme eklendi. Kopan indirme kaldığı yerden devam eder.",
   "zorunlu": false
 }
