@@ -1,7 +1,7 @@
 {
-  "surumKodu": 47,
-  "surumAdi": "2.45",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.45/ZaruIPTV.apk",
-  "notlar": "Liste varsayılan olarak 48 saatte bir yenilenir. Ayarlar > Liste ve Hesap'tan otomatik yenileme kapatılabilir; açıkken sıklık seçilir. Son yenileme tarihi orada görünür. Film ve dizi sayfasında oyuncu yüzleri gelir.",
+  "surumKodu": 48,
+  "surumAdi": "2.46",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.46/ZaruIPTV.apk",
+  "notlar": "Film ve dizi sayfasındaki oyuncu yüzlerine tema renginde ince yuvarlak çerçeve eklendi.",
   "zorunlu": false
 }
