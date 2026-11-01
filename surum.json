@@ -1,7 +1,7 @@
 {
-  "surumKodu": 49,
-  "surumAdi": "2.47",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.47/ZaruIPTV.apk",
-  "notlar": "Film ve bölüm indirme ile canlı yayında kaydetme eklendi. Kopan indirme kaldığı yerden devam eder.",
+  "surumKodu": 50,
+  "surumAdi": "2.48",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.48/ZaruIPTV.apk",
+  "notlar": "İndirme yöneticisi eklendi. Kayıt, oynatıcı açıkken durdurulur. Duraklatılan indirme kaldığı yerden sürer.",
   "zorunlu": false
 }
