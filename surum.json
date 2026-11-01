@@ -1,7 +1,7 @@
 {
-  "surumKodu": 51,
-  "surumAdi": "2.49",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.49/ZaruIPTV.apk",
-  "notlar": "Harici bellek (USB/HDD) desteği: film, dizi ve canlı yayın kayıtları için bellek seçimi ve kapasite göstergesi; her içerik kendi klasörüne iner. Harici bellek yoksa indirmeden önce uyarı. İndirme listesinde dosya boyutu. İkonlar düzeltildi.",
+  "surumKodu": 52,
+  "surumAdi": "2.50",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.50/ZaruIPTV.apk",
+  "notlar": "İki düzeltme: kayıt/indirme uyarı penceresi oynatıcıda artık kaybolmuyor ve tuşlar çalışıyor; yayın açılırken görüntünün bazen küçük açılması giderildi.",
   "zorunlu": false
 }
