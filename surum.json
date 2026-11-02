@@ -1,7 +1,7 @@
 {
-  "surumKodu": 52,
-  "surumAdi": "2.50",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.50/ZaruIPTV.apk",
-  "notlar": "İki düzeltme: kayıt/indirme uyarı penceresi oynatıcıda artık kaybolmuyor ve tuşlar çalışıyor; yayın açılırken görüntünün bazen küçük açılması giderildi.",
+  "surumKodu": 53,
+  "surumAdi": "2.51",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.51/ZaruIPTV.apk",
+  "notlar": "Telefon dikey mod görünümü, yatay oynatıcı, Apple tvOS tarzı seçenekler menüsü ve Liste ekle ekranı mobil uyumu eklendi.",
   "zorunlu": false
 }
