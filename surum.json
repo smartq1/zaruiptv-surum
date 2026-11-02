@@ -1,7 +1,7 @@
 {
-  "surumKodu": 53,
-  "surumAdi": "2.51",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.51/ZaruIPTV.apk",
-  "notlar": "Telefon dikey mod görünümü, yatay oynatıcı, Apple tvOS tarzı seçenekler menüsü ve Liste ekle ekranı mobil uyumu eklendi.",
+  "surumKodu": 54,
+  "surumAdi": "2.52",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.52/ZaruIPTV.apk",
+  "notlar": "Canlı TV ve Arama ekranlarında kanal logolarının üst üste binip taşması düzeltildi.",
   "zorunlu": false
 }
