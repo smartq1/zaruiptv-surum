@@ -1,7 +1,6 @@
 {
-  "surumKodu": 54,
-  "surumAdi": "2.52",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.52/ZaruIPTV.apk",
-  "notlar": "Canlı TV ve Arama ekranlarında kanal logolarının üst üste binip taşması düzeltildi.",
-  "zorunlu": false
+  "surumKodu": 55,
+  "surumAdi": "2.53",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.53/ZaruIPTV.apk",
+  "not": "2.53: Mobil video oynatıcı şeffaflığı (görüntü sorunu giderildi), Canlı TV küçük ekran önizleme ve dokunarak yatay tam ekrana geçiş, eski oynatıcı seçenek çipleri, VOD parmakla ileri/geri sarma, yuvarlak oyuncu fotoğrafları, belirgin Canlı TV ve Rehber kategori/kanal seçimi düzeltmeleri."
 }
