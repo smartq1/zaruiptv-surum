@@ -1,6 +1,6 @@
 {
-  "surumKodu": 55,
-  "surumAdi": "2.53",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.53/ZaruIPTV.apk",
-  "not": "2.53: Mobil video oynatıcı şeffaflığı (görüntü sorunu giderildi), Canlı TV küçük ekran önizleme ve dokunarak yatay tam ekrana geçiş, eski oynatıcı seçenek çipleri, VOD parmakla ileri/geri sarma, yuvarlak oyuncu fotoğrafları, belirgin Canlı TV ve Rehber kategori/kanal seçimi düzeltmeleri."
+  "surumKodu": 56,
+  "surumAdi": "2.54",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.54/ZaruIPTV.apk",
+  "not": "2.54: Netflix tarzı dikey parlaklık (sol) ve ses (sağ) barları, sağa/sola çift dokunuşla ±10 sn sarma, basılı tutunca çıkış hatası düzeltmesi, kompakt hap bildirimleri, oynatıcı içi kompakt İndirmeler paneli, indirme durdurma/silme ve altyazı/ses düzeltmeleri."
 }
