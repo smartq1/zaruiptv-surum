@@ -1,6 +1,6 @@
 {
-  "surumKodu": 59,
-  "surumAdi": "2.57",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.57/ZaruIPTV.apk",
-  "not": "2.57: Sekmeli Altyazı ve Stil menüsü, dizilerde ekranın üstünde yüzen önceki/sonraki bölüm butonları, ekran ortasına dokunarak patlayan Play/Pause animasyonu, ekranın sağına/soluna hızlı seri dokunarak birikimli (+10 +20 +30...) sarma, HUD ile birlikte kaybolan geri ve tam ekran tuşları."
+  "surumKodu": 60,
+  "surumAdi": "2.58",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.58/ZaruIPTV.apk",
+  "not": "2.58: Üst başlıkta profil resminin sağına Ayarlar çarkı eklendi. Profil resmine tıklayınca 'Profile gir' ve 'Profil değiştir' seçenekleri açılan menü eklendi. Alt profil sekmesindeki Ayarlar, İndirilenler ve Hakkında butonları kaldırılarak sadece profil içeriği bırakıldı."
 }
