@@ -1,6 +1,6 @@
 {
-  "surumKodu": 56,
-  "surumAdi": "2.54",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.54/ZaruIPTV.apk",
-  "not": "2.54: Netflix tarzı dikey parlaklık (sol) ve ses (sağ) barları, sağa/sola çift dokunuşla ±10 sn sarma, basılı tutunca çıkış hatası düzeltmesi, kompakt hap bildirimleri, oynatıcı içi kompakt İndirmeler paneli, indirme durdurma/silme ve altyazı/ses düzeltmeleri."
+  "surumKodu": 57,
+  "surumAdi": "2.55",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.55/ZaruIPTV.apk",
+  "not": "2.55: Zaru Aurora Yüzen Cam Oynatıcı (Demo 5) ve Yaylanan Baloncuk Menü Açılışı (Stil 3), uygulama temasıyla uyumlu renkler, büyütülmüş okunaklı yazılar ve butonlar, görünür ilerleme çubuğu, oynatıcı içi Sezon/Bölümler menüsü + Önceki/Sonraki bölüm, kapanmayan LIGHT barı ve otomatik gizlenme düzeltmeleri."
 }
