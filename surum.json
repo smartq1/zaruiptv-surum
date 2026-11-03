@@ -1,6 +1,6 @@
 {
-  "surumKodu": 64,
-  "surumAdi": "2.62",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.62/ZaruIPTV.apk",
-  "not": "2.62: Telefonda ortaya dokununca duraklatma, çift dokunuşla sarma ve yana dokunuşla paneli açıp kapatma yeniden çalışıyor; parlaklık/ses çubukları görünüyor ve TV'de alt panel kendiliğinden gizleniyor; TV kumandasıyla ileri/geri sarma takılmadan, basılı tutunca hızlanarak çalışıyor; Altyazı & Stil sekmelerine kumandayla geçilebiliyor; TV'de önceki/sonraki bölüm yeniden alt satırda, Bölümler menüsü büyük ekrana uygun; canlı önizleme kartı gerçek bilgileri gösteriyor ve Baştan düğmesi programı gerçekten baştan açıyor; profil menüsü dışarı dokununca kapanıyor; telefonda oynatıcı iki yatay yöne de dönüyor ve parlaklık oynatıcıdan çıkınca eski haline geliyor."
+  "surumKodu": 65,
+  "surumAdi": "2.63",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.63/ZaruIPTV.apk",
+  "not": "2.63: #9 Pill Nav oynatıcı tasarımı tam olarak entegre edildi; dikeyde 36px tam yuvarlak ikon butonlar, yatayda neon camgöbeği geniş pill butonlar; dikey/yatay renk uyumu eşitlendi; açılır menüler (altyazı, ses, kalite, oran) yenilendi, çift tik ve metin kırpılma hataları giderildi."
 }
