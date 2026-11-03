@@ -1,6 +1,6 @@
 {
-  "surumKodu": 62,
-  "surumAdi": "2.60",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.60/ZaruIPTV.apk",
-  "not": "2.60: Hızlı sarma baloncuklarının ekranda takılı kalması ve sarma işlemi kesin olarak çözüldü; Profil menüsü popup yerine şık dropdown menü yapıldı; Profilden izlenen canlı yayınları tek tek veya tümünü silme özelliği eklendi; Oynatıcı seçenek çipleri tek satırda kayacak şekilde sabitlendi; Ekran parlaklığı ve ses dikey sürükleme barları geri getirildi; Rehber, Film & Dizi, Sonraki, Önceki ve bellek seçim ekranlarındaki tüm eksik dil çevirileri tamamlandı."
+  "surumKodu": 63,
+  "surumAdi": "2.61",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.61/ZaruIPTV.apk",
+  "not": "2.61: Player dokunma tepkisizliği ve HUD kontrollerinin geri gelmeme sorunu çözüldü; Ekrandaki tüm gizli pointer capture kilitleri kaldırıldı; İleri/geri sarma baloncuklarının ekranda kalması ve fonksiyonel sarma hatası giderildi; Parlaklık ve ses barları demoya uygun kompakt ve şık tasarıma kavuşturuldu; Canlı TV ve dizilerde seçenek butonlarının sağa taşması ve satır atlaması düzeltildi; Önceki/Sonraki bölüm butonları player barının hemen üstüne taşındı; Profil dropdown menüsü ve tüm dillerdeki eksik çeviriler tamamlandı."
 }
