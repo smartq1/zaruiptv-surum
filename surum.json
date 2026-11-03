@@ -1,6 +1,6 @@
 {
-  "surumKodu": 63,
-  "surumAdi": "2.61",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.61/ZaruIPTV.apk",
-  "not": "2.61: Player dokunma tepkisizliği ve HUD kontrollerinin geri gelmeme sorunu çözüldü; Ekrandaki tüm gizli pointer capture kilitleri kaldırıldı; İleri/geri sarma baloncuklarının ekranda kalması ve fonksiyonel sarma hatası giderildi; Parlaklık ve ses barları demoya uygun kompakt ve şık tasarıma kavuşturuldu; Canlı TV ve dizilerde seçenek butonlarının sağa taşması ve satır atlaması düzeltildi; Önceki/Sonraki bölüm butonları player barının hemen üstüne taşındı; Profil dropdown menüsü ve tüm dillerdeki eksik çeviriler tamamlandı."
+  "surumKodu": 64,
+  "surumAdi": "2.62",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.62/ZaruIPTV.apk",
+  "not": "2.62: Telefonda ortaya dokununca duraklatma, çift dokunuşla sarma ve yana dokunuşla paneli açıp kapatma yeniden çalışıyor; parlaklık/ses çubukları görünüyor ve TV'de alt panel kendiliğinden gizleniyor; TV kumandasıyla ileri/geri sarma takılmadan, basılı tutunca hızlanarak çalışıyor; Altyazı & Stil sekmelerine kumandayla geçilebiliyor; TV'de önceki/sonraki bölüm yeniden alt satırda, Bölümler menüsü büyük ekrana uygun; canlı önizleme kartı gerçek bilgileri gösteriyor ve Baştan düğmesi programı gerçekten baştan açıyor; profil menüsü dışarı dokununca kapanıyor; telefonda oynatıcı iki yatay yöne de dönüyor ve parlaklık oynatıcıdan çıkınca eski haline geliyor."
 }
