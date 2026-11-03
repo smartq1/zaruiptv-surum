@@ -1,6 +1,6 @@
 {
-  "surumKodu": 65,
-  "surumAdi": "2.63",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.63/ZaruIPTV.apk",
-  "not": "2.63: #9 Pill Nav oynatıcı tasarımı tam olarak entegre edildi; dikeyde 36px tam yuvarlak ikon butonlar, yatayda neon camgöbeği geniş pill butonlar; dikey/yatay renk uyumu eşitlendi; açılır menüler (altyazı, ses, kalite, oran) yenilendi, çift tik ve metin kırpılma hataları giderildi."
+  "surumKodu": 66,
+  "surumAdi": "2.64",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.64/ZaruIPTV.apk",
+  "not": "2.64: TV oynatıcı yedekten birebir geri yüklendi; mobil oynatıcıda barlar görünür kılındı; ekran ortasındaki başlık filigranı mobilde gizlendi; alt bardaki çözünürlük rozeti çakışması giderildi; açılır menülerde (altyazı, ses, kalite, oran) çift tik ve metin kırpılma hataları çözüldü."
 }
