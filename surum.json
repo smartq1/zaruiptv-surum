@@ -1,6 +1,6 @@
 {
-  "surumKodu": 58,
-  "surumAdi": "2.56",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.56/ZaruIPTV.apk",
-  "not": "2.56: Demo 5 ve Menü Stil 3 birebir kompakt cam tasarım, yatay ekranda taşmayan çipler ve butonlar, kartın hemen üstünde açılan baloncuk menü, yanlışlıkla tetiklenmeyen ve 0.7 sn sonra kesin kaybolan parlaklık/ses barı düzeltmeleri."
+  "surumKodu": 59,
+  "surumAdi": "2.57",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.57/ZaruIPTV.apk",
+  "not": "2.57: Sekmeli Altyazı ve Stil menüsü, dizilerde ekranın üstünde yüzen önceki/sonraki bölüm butonları, ekran ortasına dokunarak patlayan Play/Pause animasyonu, ekranın sağına/soluna hızlı seri dokunarak birikimli (+10 +20 +30...) sarma, HUD ile birlikte kaybolan geri ve tam ekran tuşları."
 }
