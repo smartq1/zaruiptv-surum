@@ -1,6 +1,6 @@
 {
-  "surumKodu": 60,
-  "surumAdi": "2.58",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.58/ZaruIPTV.apk",
-  "not": "2.58: Üst başlıkta profil resminin sağına Ayarlar çarkı eklendi. Profil resmine tıklayınca 'Profile gir' ve 'Profil değiştir' seçenekleri açılan menü eklendi. Alt profil sekmesindeki Ayarlar, İndirilenler ve Hakkında butonları kaldırılarak sadece profil içeriği bırakıldı."
+  "surumKodu": 61,
+  "surumAdi": "2.59",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.59/ZaruIPTV.apk",
+  "not": "2.59: Dizilerde onceki/sonraki bolum butonlari player barinin sag ustune tasindi. Altyazi ve Stil tek menude sekmeli hale getirildi. Ekran ortasina basinca Play/Pause patlama animasyonu eklendi. Cift tiklama ile biriken hizli ileri/geri sarma ve player bar sarma tuslari duzeltildi. Geri tusu ve tam ekran butonu player bari gizlendiginde otomatik kaybolacak sekilde ayarlandi. Canli TV player seceneklerinin tasmasi giderildi."
 }
