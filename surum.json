@@ -1,6 +1,6 @@
 {
-  "surumKodu": 61,
-  "surumAdi": "2.59",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.59/ZaruIPTV.apk",
-  "not": "2.59: Dizilerde onceki/sonraki bolum butonlari player barinin sag ustune tasindi. Altyazi ve Stil tek menude sekmeli hale getirildi. Ekran ortasina basinca Play/Pause patlama animasyonu eklendi. Cift tiklama ile biriken hizli ileri/geri sarma ve player bar sarma tuslari duzeltildi. Geri tusu ve tam ekran butonu player bari gizlendiginde otomatik kaybolacak sekilde ayarlandi. Canli TV player seceneklerinin tasmasi giderildi."
+  "surumKodu": 62,
+  "surumAdi": "2.60",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.60/ZaruIPTV.apk",
+  "not": "2.60: Hızlı sarma baloncuklarının ekranda takılı kalması ve sarma işlemi kesin olarak çözüldü; Profil menüsü popup yerine şık dropdown menü yapıldı; Profilden izlenen canlı yayınları tek tek veya tümünü silme özelliği eklendi; Oynatıcı seçenek çipleri tek satırda kayacak şekilde sabitlendi; Ekran parlaklığı ve ses dikey sürükleme barları geri getirildi; Rehber, Film & Dizi, Sonraki, Önceki ve bellek seçim ekranlarındaki tüm eksik dil çevirileri tamamlandı."
 }
