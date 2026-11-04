@@ -1,6 +1,6 @@
 {
-  "surumKodu": 67,
-  "surumAdi": "2.65",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.65/ZaruIPTV.apk",
-  "not": "2.65: TV oynatıcısı 2.56 görünümüne döndü, hata düzeltmeleri korundu. Telefonda yeni oynatıcı: dikey ve yatayda film, dizi ve canlı için ayrı menüler; oynatma hızı, uyku sayacı, ekran kilidi, resim içinde resim, yayın akışı, kanal listesi, kayıt ve beğen. Telefondan TV'ye aktarma: aynı Wi-Fi ağındaki ZaruIPTV'ye ya da Chromecast'e gönderilebiliyor. Oynatıcıda telefon serbestçe dönüyor. Bir çökme hatası giderildi."
+  "surumKodu": 68,
+  "surumAdi": "2.66",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.66/ZaruIPTV.apk",
+  "not": "2.66: Telefonda sesi gelmeyen yayınlar düzeldi (MP2 ve benzeri ses biçimleri artık telefonda da çözülüyor). Telefon oynatıcısı yeni Minimal Arc tasarımında, cam görünümlü ve opak. Telefonda üstteki durum çubuğu (saat, pil, bildirimler, Wi-Fi/hücresel) görünüyor; yatay oynatıcıda gizleniyor. TV'ye aktarırken telefonda seçili altyazı ve ses/dublaj TV'de de aynı seçiliyor. Ses kısıldıktan sonra ses tuşlarının çalışmaması düzeltildi."
 }
