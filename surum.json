@@ -1,6 +1,6 @@
 {
-  "surumKodu": 69,
-  "surumAdi": "2.67",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.67/ZaruIPTV.apk",
-  "not": "2.67: Telefon oynatıcısı TV oynatıcısının düzenine geçti (canlı, film ve dizide, dikey ve yatay). Sığmayan seçenekler ikona dönüyor, hiçbir şey taşmıyor ve seçenek satırı kaymıyor. Hız, uyku, kilit, PiP ve TV'ye Aktar telefonda doğrudan oynatıcı panelinde."
+  "surumKodu": 70,
+  "surumAdi": "2.68",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.68/ZaruIPTV.apk",
+  "not": "2.68: TV'ye Aktar'da telefonu TV ile bir kez eşleştir: TV ekranındaki 4 haneli kodu telefona gir. Sonra TV'ye Aktar'a dokunduğunda eşleşmiş TV kendiliğinden bulunur ve içerik doğrudan gönderilir. Eşleşme aynı yerden kaldırılabilir. Hem telefonda hem TV'de 2.68 olmalı."
 }
