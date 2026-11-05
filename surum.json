@@ -1,6 +1,6 @@
 {
-  "surumKodu": 72,
-  "surumAdi": "2.70",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.70/ZaruIPTV.apk",
-  "not": "2.70: Canlı TV, film ve dizi yüklenirken detaylı ilerleme çubuğu, sayaç ve anlık yükleme eklendi. Liste indiğinde tek tıkla izlemeye başlama."
+  "surumKodu": 73,
+  "surumAdi": "2.71",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.71/ZaruIPTV.apk",
+  "not": "2.71: Liste silindiğinde tüm içerik ve geçmişin temizlenmesi, menüden hızlı liste geçişi, üst menü odak koruma, afiş yatay kaydırma hizalama, dizilerde 2 sütunlu ferah bölüm listesi, TMDB oyuncu biyografisi, fotoğraflar ve filmler modalı."
 }
