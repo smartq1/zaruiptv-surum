@@ -1,6 +1,6 @@
 {
-  "surumKodu": 70,
-  "surumAdi": "2.68",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.68/ZaruIPTV.apk",
-  "not": "2.68: TV'ye Aktar'da telefonu TV ile bir kez eşleştir: TV ekranındaki 4 haneli kodu telefona gir. Sonra TV'ye Aktar'a dokunduğunda eşleşmiş TV kendiliğinden bulunur ve içerik doğrudan gönderilir. Eşleşme aynı yerden kaldırılabilir. Hem telefonda hem TV'de 2.68 olmalı."
+  "surumKodu": 71,
+  "surumAdi": "2.69",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.69/ZaruIPTV.apk",
+  "not": "2.69: Player alt seçeneklerindeki (altyazı, ses, kalite, oran, bölümler vb.) açılır menü ve tıklama/kumanda seçim hatası düzeltildi."
 }
