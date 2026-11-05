@@ -1,7 +1,7 @@
 {
-  "surumKodu": 77,
-  "surumAdi": "2.75",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.75/ZaruIPTV.apk",
-  "notlar": "Kumanda düzeltmeleri: sunucu port çakışmasında yeniden dener, yayın ekranında kumanda arayüzü geri gelir. Yeni ok imleç ve tıklama halkası. Eksik çeviriler tamamlandı.",
+  "surumKodu": 78,
+  "surumAdi": "2.76",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.76/ZaruIPTV.apk",
+  "notlar": "İmleç tema rengine uyuyor: ok ve tıklama halkası seçili temanın rengiyle çizilir. Yumuşak kenarlı yeni ok imleç.",
   "zorunlu": false
 }
