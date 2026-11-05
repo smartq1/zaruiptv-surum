@@ -1,6 +1,6 @@
 {
-  "surumKodu": 74,
-  "surumAdi": "2.72",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.72/ZaruIPTV.apk",
-  "not": "2.72: Yeni OLED Liquid animasyonlu Zaru yukleme ekrani (akiskan Z logosu, icerik duyarli futbol, sinema ve ejderha sekanslari, parlayarak kavusma efekti, TV ve mobil icin ayri optimize edilmis 3 kartli sonuc paneli)."
+  "surumKodu": 75,
+  "surumAdi": "2.73",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.73/ZaruIPTV.apk",
+  "not": "2.73: SVG tabanlı kusursuz ikonlar (THEATERS/play_circle hatası giderildi), akıcı kademeli progress bar ve koşan karakterler, sadeleştirilmiş açıklamalar, izole parlak beyaz başlatma butonu, 30 MB çöp dosya temizliği ve optimize hafif APK."
 }
