@@ -1,6 +1,7 @@
 {
-  "surumKodu": 75,
-  "surumAdi": "2.73",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.73/ZaruIPTV.apk",
-  "not": "2.73: SVG tabanlı kusursuz ikonlar (THEATERS/play_circle hatası giderildi), akıcı kademeli progress bar ve koşan karakterler, sadeleştirilmiş açıklamalar, izole parlak beyaz başlatma butonu, 30 MB çöp dosya temizliği ve optimize hafif APK."
+  "surumKodu": 76,
+  "surumAdi": "2.74",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.74/ZaruIPTV.apk",
+  "notlar": "ZaruIPTV artık tek uygulama. Telefon kumandası (imleç, tuşlar) ZaruIPTV'nin kendi sunucusunda çalışıyor. Harici bellek (USB/HDD) desteği, dikey telefon arayüzü ve oynatıcı düzeltmeleri dahil.",
+  "zorunlu": false
 }
