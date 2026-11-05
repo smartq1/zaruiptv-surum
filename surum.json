@@ -1,6 +1,6 @@
 {
-  "surumKodu": 71,
-  "surumAdi": "2.69",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.69/ZaruIPTV.apk",
-  "not": "2.69: Player alt seçeneklerindeki (altyazı, ses, kalite, oran, bölümler vb.) açılır menü ve tıklama/kumanda seçim hatası düzeltildi."
+  "surumKodu": 72,
+  "surumAdi": "2.70",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.70/ZaruIPTV.apk",
+  "not": "2.70: Canlı TV, film ve dizi yüklenirken detaylı ilerleme çubuğu, sayaç ve anlık yükleme eklendi. Liste indiğinde tek tıkla izlemeye başlama."
 }
