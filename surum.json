@@ -1,7 +1,7 @@
 {
-  "surumKodu": 89,
-  "surumAdi": "2.87",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.87/ZaruIPTV.apk",
-  "notlar": "Film ayrıntısında bilgi gelmediğinde nedeni yazılır (ör. aktif liste Xtream değil). Diğer düzeltmeler dahil.",
+  "surumKodu": 90,
+  "surumAdi": "2.88",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.88/ZaruIPTV.apk",
+  "notlar": "Son kanal tuşu (bir önceki kanala dön). Rehberde yaklaşan programa uzun OK ile hatırlatıcı; program başlayınca bildirim. Düz M3U listeleri için XMLTV rehberi (liste ekleme ekranında EPG adresi). Kanal ve kategorileri elle sıralama. İnternet hız testi (Ayarlar → Genel). Oynatıcıda harici oynatıcıda açma. Oynatıcı ayarlarında gece modu (sesi sıkıştırır, Android 9+).",
   "zorunlu": false
 }
