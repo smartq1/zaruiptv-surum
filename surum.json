@@ -1,7 +1,7 @@
 {
-  "surumKodu": 85,
-  "surumAdi": "2.83",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.83/ZaruIPTV.apk",
-  "notlar": "Kumandada 'Bağlantıyı kes' düğmesi eklendi. TV bulma: adresi ilk denemede çözülemeyen TV'ler artık birkaç kez daha denenir.",
+  "surumKodu": 86,
+  "surumAdi": "2.84",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.84/ZaruIPTV.apk",
+  "notlar": "Kumanda ekranına TV bulma tanı satırı eklendi (bulunan TV'ler ve adres çözümleme durumu).",
   "zorunlu": false
 }
