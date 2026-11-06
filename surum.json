@@ -1,7 +1,7 @@
 {
-  "surumKodu": 88,
-  "surumAdi": "2.86",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.86/ZaruIPTV.apk",
-  "notlar": "TV'nin ağ adı değiştirildi (ZaruIPTV-ad): telefon bazı TV'leri bulamıyordu.",
+  "surumKodu": 89,
+  "surumAdi": "2.87",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.87/ZaruIPTV.apk",
+  "notlar": "Film ayrıntısında bilgi gelmediğinde nedeni yazılır (ör. aktif liste Xtream değil). Diğer düzeltmeler dahil.",
   "zorunlu": false
 }
