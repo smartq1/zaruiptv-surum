@@ -1,7 +1,7 @@
 {
-  "surumKodu": 80,
-  "surumAdi": "2.78",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.78/ZaruIPTV.apk",
-  "notlar": "Oyuncu sayfasında 'Uygulamanızda' listesi artık veritabanında tutuluyor; uygulama kapansa da tarama kaldığı yerden devam ediyor. Film oyuncuları boş gelirse artık yeniden deneniyor. Dizi bölüm listesi ekranın altına kadar iniyor. Oyuncu odağındaki kare gölge kaldırıldı. 'null' yazıları gizlendi. Afiş satırlarındaki kırpılma düzeltildi.",
+  "surumKodu": 81,
+  "surumAdi": "2.79",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.79/ZaruIPTV.apk",
+  "notlar": "Birden çok TV eşleşmesi: telefon birden fazla ZaruIPTV TV'sini kaydeder, kumanda listesinden istediğini seçersin. TV kumandasının Bilgi tuşu eşleştirme kodunu ekranın üst ortasında gösterir. Oyuncu sayfasında 'İzleyebileceğin içerikler' başlığı; dizi bölüm listesi aşağıya kadar iniyor; afiş kırpılması ve 'null' yazıları düzeltildi.",
   "zorunlu": false
 }
