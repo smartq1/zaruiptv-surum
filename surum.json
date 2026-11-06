@@ -1,7 +1,7 @@
 {
-  "surumKodu": 86,
-  "surumAdi": "2.84",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.84/ZaruIPTV.apk",
-  "notlar": "Kumanda ekranına TV bulma tanı satırı eklendi (bulunan TV'ler ve adres çözümleme durumu).",
+  "surumKodu": 87,
+  "surumAdi": "2.85",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.85/ZaruIPTV.apk",
+  "notlar": "Kumanda ekranındaki TV bulma tanı satırı artık tarama başlar başlamaz görünür.",
   "zorunlu": false
 }
