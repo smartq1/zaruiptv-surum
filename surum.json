@@ -1,7 +1,7 @@
 {
-  "surumKodu": 84,
-  "surumAdi": "2.82",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.82/ZaruIPTV.apk",
-  "notlar": "Telefon kumandası artık son bağlanılan TV'ye kendiliğinden bağlanmaz; listeden istediğin TV'yi seçersin. Birden çok TV eşleşmesi, arka plan bulunabilirliği ve Android 14 açılış düzeltmeleri dahil.",
+  "surumKodu": 85,
+  "surumAdi": "2.83",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.83/ZaruIPTV.apk",
+  "notlar": "Kumandada 'Bağlantıyı kes' düğmesi eklendi. TV bulma: adresi ilk denemede çözülemeyen TV'ler artık birkaç kez daha denenir.",
   "zorunlu": false
 }
