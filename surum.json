@@ -1,7 +1,7 @@
 {
-  "surumKodu": 82,
-  "surumAdi": "2.80",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.80/ZaruIPTV.apk",
-  "notlar": "TV artık arka planda çalışır: uygulama açık olmasa da (ör. YouTube açıkken) telefon kumandasıyla bulunur ve bağlanır. Eşleştirme kodu TV'de bildirim olarak çıkar; Bilgi tuşuna basınca üst ortada görünür. Birden çok TV eşleşmesi, oyuncu sayfası ve arayüz düzeltmeleri.",
+  "surumKodu": 83,
+  "surumAdi": "2.81",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.81/ZaruIPTV.apk",
+  "notlar": "Android 14 ve üzeri TV'lerde açılış çökmesi giderildi. TV arka planda çalışır: uygulama açık olmasa da telefon kumandasıyla bulunur. Eşleştirme kodu TV'de bildirim olarak çıkar; Bilgi tuşuna basınca üst ortada görünür.",
   "zorunlu": false
 }
