@@ -1,7 +1,7 @@
 {
-  "surumKodu": 79,
-  "surumAdi": "2.77",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.77/ZaruIPTV.apk",
-  "notlar": "Oyuncu sayfası uygulama içinde açılır; oyuncunun filmleri uygulama kütüphanesinde aranır. Dizi sezonları üstte, bölümler tek sütun. İmleç tema renginde.",
+  "surumKodu": 80,
+  "surumAdi": "2.78",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.78/ZaruIPTV.apk",
+  "notlar": "Oyuncu sayfasında 'Uygulamanızda' listesi artık veritabanında tutuluyor; uygulama kapansa da tarama kaldığı yerden devam ediyor. Film oyuncuları boş gelirse artık yeniden deneniyor. Dizi bölüm listesi ekranın altına kadar iniyor. Oyuncu odağındaki kare gölge kaldırıldı. 'null' yazıları gizlendi. Afiş satırlarındaki kırpılma düzeltildi.",
   "zorunlu": false
 }
