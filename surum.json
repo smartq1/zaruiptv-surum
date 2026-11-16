@@ -1,7 +1,7 @@
 {
-  "surumKodu": 90,
-  "surumAdi": "2.88",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.88/ZaruIPTV.apk",
-  "notlar": "Son kanal tuşu (bir önceki kanala dön). Rehberde yaklaşan programa uzun OK ile hatırlatıcı; program başlayınca bildirim. Düz M3U listeleri için XMLTV rehberi (liste ekleme ekranında EPG adresi). Kanal ve kategorileri elle sıralama. İnternet hız testi (Ayarlar → Genel). Oynatıcıda harici oynatıcıda açma. Oynatıcı ayarlarında gece modu (sesi sıkıştırır, Android 9+).",
+  "surumKodu": 91,
+  "surumAdi": "2.89",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.89/ZaruIPTV.apk",
+  "notlar": "Compose TV oynatıcı. Netflix tarzı sarma önizlemesi. Cam HUD hapları. Oynatıcı ayarları kaydı.",
   "zorunlu": false
 }
