@@ -1,7 +1,7 @@
 {
-  "surumKodu": 91,
-  "surumAdi": "2.89",
-  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.89/ZaruIPTV.apk",
-  "notlar": "Compose TV oynatıcı. Netflix tarzı sarma önizlemesi. Cam HUD hapları. Oynatıcı ayarları kaydı.",
+  "surumKodu": 92,
+  "surumAdi": "2.90",
+  "apk": "https://github.com/smartq1/zaruiptv-surum/releases/download/v2.90/ZaruIPTV.apk",
+  "notlar": "Canli kanalda Yukari listede kalir. Diger sayfalarda Yukari yalniz en ustte menuye cikar. Rastgele sayfasi ve oynatici ayrimi.",
   "zorunlu": false
 }
